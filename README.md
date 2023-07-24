@@ -1,4 +1,4 @@
-![portada](https://github.com/Ironhack-Data-Madrid-Enero-2022/w3-pandas-project/blob/main/images/portada.jpg)
+![portada](https://github.com/delbrioariasl/Sharks_project/blob/main/sharkattack.jpg)
 
 # Data cleaning -> Shark Attacks
 
@@ -11,6 +11,7 @@ The goal of this project is to combine everything you have learned about data wr
 2. Using different data cleaning techniques inside a file named `clean.ipynb`
    - null values, columns drop, duplicated data, string manipulation, apply fn, categorize, regex, etc.
 3. Showing data that validates the conclusions based on your hypoteses in a file named `analysis.ipynb`
+4. Ended with a shape of (4017, 24)
 
 ## How to deliver the project
 
